@@ -32,6 +32,5 @@ Bu projede bir veritabanında (SQL) tablo oluşturmayı, C# ile veritabanı aras
 Bu projede C#'ta SQL üzerinde ekleme, listeleme, silme ve güncelleme işlemlerini öğrendim ve daha önce oluşturduğum tablolar üzerinde uyguladım. Oluşturduğum Menü Sipariş İşlem Paneli'nde SQL komutlarıyla veritabanı üzerinde temel CRUD (Create, Read, Update, Delete) işlemlerini gerçekleştirdim. Sonuç olarak C# eğitim kampının 101 modülünü bu proje ile tamamladım.
 
 ## 🚩 Proje 11: Entity Framework - Travel Statistics Panel
-![Ekran görüntüsü 2025-06-01 135117](https://github.com/user-attachments/assets/8d050ccb-2035-4560-841d-77f0e88ca21e)
+![Ekran görüntüsü 2025-06-01 150127](https://github.com/user-attachments/assets/4ebdc01f-eabb-462a-989b-e6aefc690b92)
 Bir tur şirketine ait veritabanını kullanarak oluşturduğu istatistikleri görselleştiren bir panel oluşturdum. Bu proje ile C# Eğitim Kampının 201 modülünü tamamlamış oldum.     
-
