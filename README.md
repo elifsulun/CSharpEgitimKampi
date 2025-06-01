@@ -26,7 +26,12 @@ Bu projede diğer bir döngü türü olan foreach döngüsü oluşturmayı öğr
 Bu projede geriye değer döndürmeyen (void) ve geriye değer döndüren methodlar oluşturmayı öğrendim ve bir örnek uygulama ile pekiştirdim.
 
 ## 🚩 Proje 9: Database Project
-Bu projede SQL veritabanında tablo oluşturmayı öğrendim ve kategori, ürün ve sipariş tabloları oluşturdum.
+Bu projede bir veritabanında (SQL) tablo oluşturmayı, C# ile veritabanı arasında bağlantı kurmayı ve veritabanından veri çekmeyi öğrendim. SQL üzerinde kategori, ürün ve sipariş tabloları oluşturdum. Veri Tabanlı Ürün-Kategori Bilgi Sistemi uygulamasını geliştirdim, bu uygulama ile kullanıcı seçtiği tablonun verilerini görüntüleyebilmekte. SqlConnection ve SqlCommand sınıflarını oluşturdum ve veritabanı ile bağlantı kurdum. Bu projeyle birlikte veritabanı işlemlerine giriş yapmış oldum.
 
 ## 🚩 Proje 10: Database Crud
-Bu projede C#'ta SQL üzerinde ekleme, listeleme, silme ve güncelleme işlemlerini öğrendim ve daha önce oluşturduğum tablolar üzerinde uyguladım.
+Bu projede C#'ta SQL üzerinde ekleme, listeleme, silme ve güncelleme işlemlerini öğrendim ve daha önce oluşturduğum tablolar üzerinde uyguladım. Oluşturduğum Menü Sipariş İşlem Paneli'nde SQL komutlarıyla veritabanı üzerinde temel CRUD (Create, Read, Update, Delete) işlemlerini gerçekleştirdim. Sonuç olarak C# eğitim kampının 101 modülünü bu proje ile tamamladım.
+
+## 🚩 Proje 11: Entity Framework - Travel Statistics Panel
+![Ekran görüntüsü 2025-06-01 135117](https://github.com/user-attachments/assets/8d050ccb-2035-4560-841d-77f0e88ca21e)
+Bir tur şirketine ait veritabanını kullanarak oluşturduğu istatistikleri görselleştiren bir panel oluşturdum. Bu proje ile C# Eğitim Kampının 201 modülünü tamamlamış oldum.     
+
