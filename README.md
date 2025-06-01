@@ -24,3 +24,9 @@ Bu projede diğer bir döngü türü olan foreach döngüsü oluşturmayı öğr
 
 ## 🚩 Proje 8: Methods
 Bu projede geriye değer döndürmeyen (void) ve geriye değer döndüren methodlar oluşturmayı öğrendim ve bir örnek uygulama ile pekiştirdim.
+
+## 🚩 Proje 9: Database Project
+Bu projede SQL veritabanında tablo oluşturmayı öğrendim ve kategori, ürün ve sipariş tabloları oluşturdum.
+
+## 🚩 Proje 10: Database Crud
+Bu projede C#'ta SQL üzerinde ekleme, listeleme, silme ve güncelleme işlemlerini öğrendim ve daha önce oluşturduğum tablolar üzerinde uyguladım.
